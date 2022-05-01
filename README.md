@@ -57,7 +57,7 @@ I did analysis on -
 
 ![5  Average Ride Length Per Category Per Day](https://user-images.githubusercontent.com/43137227/166158257-1f3cc840-29de-4b3f-afdb-dedfebf479c0.PNG)
 
-6. Average Ride LEngth Per Month For Each category
+6. Average Ride Length Per Month For Each category
 
 ![6  Average Ride Length Per Month For Each category](https://user-images.githubusercontent.com/43137227/166158400-755074ea-56f5-4b7e-89fe-9214e91594b8.PNG)
 
