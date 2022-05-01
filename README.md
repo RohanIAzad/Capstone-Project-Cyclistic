@@ -33,7 +33,7 @@ I used pyhton for processing and cleaning the data.
 5. Extracted "day of the week" and "month" from datetime
 6. Noticed that in some cases "started_at" was at a later time than "ended_at". Swapped the entries so that "started _at" and "ended_at" can be swtiched to reflect lower "started_at" and higher "ended_at" time.
 
-# 4. Analysis
+# 4. Analysis / Share
 I did analysis on -
 1. the percentage of casual and member riders in the entire dataset
 ![1  Total Bike Hires Per Rider category](https://user-images.githubusercontent.com/43137227/166157814-777c0507-eacb-46f3-8ef0-e12411dabe0d.PNG)
