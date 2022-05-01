@@ -45,6 +45,9 @@ I did analysis on -
 
 3. Total Bike Hires per Day Of the Week
 
+![3  Total Bike Hires per Day of the Week](https://user-images.githubusercontent.com/43137227/166158063-ee9613f4-e459-4ada-b82d-9072b57542c5.PNG)
+
+
 
 
 
