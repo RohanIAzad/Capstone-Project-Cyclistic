@@ -55,6 +55,8 @@ I did analysis on -
 
 5. Average Ride Length Per Category Per Day
 
+![5  Average Ride Length Per Category Per Day](https://user-images.githubusercontent.com/43137227/166158257-1f3cc840-29de-4b3f-afdb-dedfebf479c0.PNG)
+
 
 
 
