@@ -39,6 +39,7 @@ I did analysis on -
 ![1  Total Bike Hires Per Rider category](https://user-images.githubusercontent.com/43137227/166157814-777c0507-eacb-46f3-8ef0-e12411dabe0d.PNG)
 
 2. Total bike hires per month
+
 ![2  Total Bike Hires per Month](https://user-images.githubusercontent.com/43137227/166157948-e883ebcc-f706-4c73-8cd2-02476c714548.PNG)
 
 
