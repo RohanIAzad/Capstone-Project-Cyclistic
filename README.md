@@ -43,6 +43,8 @@ I did analysis on -
 ![2  Total Bike Hires per Month](https://user-images.githubusercontent.com/43137227/166157948-e883ebcc-f706-4c73-8cd2-02476c714548.PNG)
 
 
+3. Total Bike Hires per Day Of the Week
+
 
 
 
