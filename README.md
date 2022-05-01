@@ -53,6 +53,8 @@ I did analysis on -
 ![4  Total Bike Hires Per Rider Category Per Day](https://user-images.githubusercontent.com/43137227/166158151-5e9cfcab-be7f-4c2f-98c5-df06e6118ca3.PNG)
 
 
+5. Average Ride Length Per Category Per Day
+
 
 
 
