@@ -29,7 +29,7 @@ I used pyhton for processing and cleaning the data.
 1. Merged the 12 datasets togethers
 2. Looked into misisng values. Teh columsn that did have missing values, I didnot require those for my analysis. That si why did not delete those rows with misisng values. 
 3. Checked for duplicate entries. There were no duplicate entries.
-4. Looked into the info() of teh dataset. Teh started_ata nd ened_at columsn were not in the correct format. they were strings and no datetime. Used pandas to_datetime() method to convert those to datetime.
+4. Looked into the info() of teh dataset. The started_ata nd ened_at columsn were not in the correct format. they were strings and no datetime. Used pandas to_datetime() method to convert those to datetime.
 5. Extracted "day of the week" and "month" from datetime
 6. Noticed that in some cases "started_at" was at a later time than "ended_at". Swapped the entries so that "started _at" and "ended_at" can be swtiched to reflect lower "started_at" and higher "ended_at" time.
 
