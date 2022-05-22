@@ -11,7 +11,7 @@ The dataset consists of bike riding data under the bicycle sharing system in the
 ### 6. Act
 
 # 1. Ask
-In the "Ask" stage I made note of what is the business task. The director of maketing wants to know how do the riding pattern of casual riders (riders who purchase single-ride or fullday passes) and annual members so that the marketing team can design a marketing starttegy to convert casual riders into annual members. The marketing director thinks annual members generate more profit for the company compared to the casual riders. 
+In the "Ask" stage I made note of what is the business task. The director of maketing wants to know how do the riding pattern of casual riders (riders who purchase single-ride or fullday passes) and annual members differ so that the marketing team can design a marketing starttegy to convert casual riders into annual members. The marketing director thinks annual members generate more profit for the company compared to the casual riders. 
 
 # 2. Prepare
 The "Prepare" phase is concerned with collecting the relevant data that is complete, accurate, consistent, trustworthy, unbiased. Teh data should also be current and teh reference cited. The link to teh dataset is here- [link](https://divvy-tripdata.s3.amazonaws.com/index.html).
