@@ -16,7 +16,7 @@ In the "Ask" stage I made note of what is the business task. The director of mak
 # 2. Prepare
 The "Prepare" phase is concerned with collecting the relevant data that is complete, accurate, consistent, trustworthy, unbiased. Teh data should also be current and the reference cited. The link to the dataset is here- [link](https://divvy-tripdata.s3.amazonaws.com/index.html).
 
-This data is reliable, original, comprehensive and current as it is made publicli avaialble by Lyft Bikes and Scooters with the permission of the City of Chicago. Personally identifiable information such as credit card numbers has been removed because of data-privacy issues.
+This data is reliable, original, comprehensive and current as it is made publicly avaialble by Lyft Bikes and Scooters with the permission of the City of Chicago. Personally identifiable information such as credit card numbers has been removed because of data-privacy issues.
 
 # 3. Process
 The data is organized month by month from June 2020 to May 2021. 
