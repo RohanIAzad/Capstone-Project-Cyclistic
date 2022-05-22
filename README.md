@@ -27,7 +27,7 @@ The data integrity is not satisfied as it has missing values, in some cases "sta
 I used pyhton for processing and cleaning the data.
 
 1. Merged the 12 datasets togethers
-2. Looked into misisng values. Teh columsn that did have missing values, I didnot require those for my analysis. That si why did not delete those rows with misisng values. 
+2. Looked into misisng values. The columns that did have missing values, I did not require those for my analysis. That is why did not delete those rows with misisng values. 
 3. Checked for duplicate entries. There were no duplicate entries.
 4. Looked into the info() of teh dataset. The started_ata nd ened_at columsn were not in the correct format. they were strings and no datetime. Used pandas to_datetime() method to convert those to datetime.
 5. Extracted "day of the week" and "month" from datetime
